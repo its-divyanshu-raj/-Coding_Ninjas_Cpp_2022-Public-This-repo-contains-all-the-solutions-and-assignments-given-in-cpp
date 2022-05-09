@@ -6,7 +6,9 @@ I created this for myself and  also for other people out there to get help by re
 #Contact me 
 For any type of queries or guidance or help
 you can ask me  at rajd57101@gmail.com
-Insta - its_divyanshu5805
+
+# Insta - its_divyanshu5805
+
 Linkedin - Divyanshu raj
 
 THank uuu, happy coding :)
